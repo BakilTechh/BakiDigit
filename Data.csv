@@ -1,61 +1,61 @@
-NIM,Nama,Prodi,Nilai,Angkatan
-2509106001,Gibran,Informatika,88,2021
-2509106002,Balmond,Sistem Informasi,76,2022
-2509106003,Rakabuming,Informatika,90,2023
-2509106004,Naya,Teknik Elektro,81,2021
-2509106005,Zilong,Sistem Informasi,67,2024
-2509106006,Bakil,Informatika,55,2022
-2509106007,Luna,Teknik Elektro,92,2023
-2509106008,Nahida,Manajemen,80,2025
-2509106009,Ganyu,Manajemen,73,2024
-2509106010,Dito,Informatika,84,2025
-2509106011,Alya,Akuntansi,77,2021
-2509106012,Reza,Desain Komunikasi Visual,82,2023
-2509106013,Fanny,Ilmu Komunikasi,69,2024
-2509106014,Jeno,Informatika,91,2022
-2509106015,Badang,Sistem Informasi,74,2025
-2509106016,Gilang,Teknik Mesin,79,2021
-2509106017,Echa,Akuntansi,62,2023
-2509106018,Wira,Desain Komunikasi Visual,88,2025
-2509106019,Venti,Manajemen,71,2022
-2509106020,Bakul,Informatika,83,2021
-2509106021,Miko,Teknik Elektro,90,2024
-2509106022,Gusion,Ilmu Komunikasi,68,2023
-2509106023,Farel,Teknik Mesin,72,2022
-2509106024,Balik,Informatika,95,2025
-2509106025,Cici,Sistem Informasi,79,2021
-2509106026,Zio,Akuntansi,88,2024
-2509106027,Reno,Teknik Mesin,75,2025
-2509106028,Raiden,Manajemen,60,2023
-2509106029,Olan,Desain Komunikasi Visual,92,2021
-2509106030,Karina,Ilmu Komunikasi,71,2025
-2509106031,Farhan,Sistem Informasi,83,2023
-2509106032,Jovan,Informatika,64,2024
-2509106033,Vina,Manajemen,89,2022
-2509106034,Axel,Teknik Elektro,55,2021
-2509106035,Lancelot,Ilmu Komunikasi,78,2024
-2509106036,Windah,Desain Komunikasi Visual,91,2022
-2509106037,Risa,Akuntansi,73,2025
-2509106038,Tomi,Teknik Mesin,80,2023
-2509106039,Fuad,Sistem Informasi,58,2021
-2509106040,Rafi,Informatika,97,2023
-2509106041,Hutao,Manajemen,81,2025
-2509106042,Keira,Akuntansi,65,2022
-2509106043,Tian,Teknik Elektro,79,2023
-2509106044,Basudara,Desain Komunikasi Visual,83,2024
-2509106045,Aamon,Ilmu Komunikasi,72,2021
-2509106046,Bara,Teknik Mesin,67,2024
-2509106047,Bahlil,Sistem Informasi,91,2025
-2509106048,Nala,Akuntansi,75,2023
-2509106049,Riyadh,Informatika,89,2022
-2509106050,Paimon,Manajemen,56,2024
-2509106051,Keno,Teknik Elektro,82,2021
-2509106052,Lesley,Ilmu Komunikasi,70,2025
-2509106053,Fano,Teknik Mesin,87,2023
-2509106054,Lira,Desain Komunikasi Visual,90,2022
-2509106055,Dodi,Akuntansi,62,2024
-2509106056,Aristotle,Sistem Informasi,79,2021
-2509106057,Sahroni,Informatika,93,2025
-2509106058,Furina,Manajemen,85,2023
-2509106059,Edo,Teknik Elektro,77,2022
-2509106060,Tami,Desain Komunikasi Visual,69,2025
+NIM,Nama,Prodi,Nilai,Angkatan,Jenis Kelamin
+2509106001,Gibran,Informatika,67,2020,Laki-laki
+2509106002,Balmond,Sistem Informasi,76,2022,Laki-laki
+2509106003,Rakabuming,Informatika,90,2023,Laki-laki
+2509106004,Lucifer,Teknik Elektro,81,2021,Laki-laki
+2509106005,Zilong,Sistem Informasi,67,2024,Laki-laki
+2509106006,Waguri,Informatika,100,2022,Perempuan
+2509106007,Lucinta luna,Teknik Elektro,92,2023,Perempuan
+2509106008,Nahida,Manajemen,80,2025,Perempuan
+2509106009,Ganyu,Manajemen,73,2024,Perempuan
+2509106010,Albert,Informatika,84,2020,Laki-laki
+2509106011,Rize,Akuntansi,77,2021,Perempuan
+2509106012,Rezaarap,Desain Komunikasi Visual,82,2023,Laki-laki
+2509106013,Fanny,Ilmu Komunikasi,69,2024,Perempuan
+2509106014,Verstappen,Informatika,91,2022,Laki-laki
+2509106015,Badang,Sistem Informasi,74,2025,Laki-laki
+2509106016,Gilang,Teknik Mesin,79,2021,Laki-laki
+2509106017,Kurniawan,Akuntansi,62,2023,Laki-laki
+2509106018,Wiraguna,Desain Komunikasi Visual,88,2025,Laki-laki
+2509106019,Venti,Manajemen,71,2022,Laki-laki
+2509106020,Bakul,Informatika,83,2021,Laki-laki
+2509106021,NikolaTesla,Teknik Elektro,90,2024,Laki-laki
+2509106022,Gusion,Ilmu Komunikasi,68,2023,Laki-laki
+2509106023,Farel,Teknik Mesin,72,2022,Laki-laki
+2509106024,Balik,Informatika,95,2025,Laki-laki
+2509106025,Cici,Sistem Informasi,79,2021,Perempuan
+2509106026,Obama,Akuntansi,88,2024,Laki-laki
+2509106027,Anies,Teknik Mesin,75,2025,Laki-laki
+2509106028,Raiden,Manajemen,60,2023,Laki-laki
+2509106029,Olaf,Desain Komunikasi Visual,92,2021,Laki-laki
+2509106030,Karina,Ilmu Komunikasi,71,2025,Perempuan
+2509106031,Farhan,Sistem Informasi,83,2023,Laki-laki
+2509106032,Jovan,Informatika,90,2024,Laki-laki
+2509106033,Vina,Manajemen,89,2022,Perempuan
+2509106034,Axel,Teknik Elektro,55,2021,Laki-laki
+2509106035,Lancelot,Ilmu Komunikasi,78,2024,Laki-laki
+2509106036,Basudara,Desain Komunikasi Visual,91,2022,Laki-laki
+2509106037,Brando,Akuntansi,73,2025,Laki-laki
+2509106038,Teddy,Teknik Mesin,80,2023,Laki-laki
+2509106039,Fuad,Sistem Informasi,58,2021,Laki-laki
+2509106040,Rafi,Informatika,97,2023,Laki-laki
+2509106041,Hutao,Manajemen,81,2025,Perempuan
+2509106042,Keira,Akuntansi,65,2022,Perempuan
+2509106043,Sumarsono,Teknik Elektro,79,2020,Laki-laki
+2509106044,Windah,Desain Komunikasi Visual,83,2024,Laki-laki
+2509106045,Aamon,Ilmu Komunikasi,72,2021,Laki-laki
+2509106046,Baskara,Teknik Mesin,67,2024,Laki-laki
+2509106047,Bahlil,Sistem Informasi,91,2025,Laki-laki
+2509106048,Ruby,Akuntansi,75,2023,Perempuan
+2509106049,Riyadh,Informatika,89,2022,Laki-laki
+2509106050,Paimon,Manajemen,56,2024,Perempuan
+2509106051,Sudharto,Teknik Elektro,82,2021,Laki-laki
+2509106052,Hayabusa,Ilmu Komunikasi,70,2025,Laki-laki
+2509106053,Rosie,Teknik Mesin,87,2023,Perempuan
+2509106054,Leonardo,Desain Komunikasi Visual,90,2022,Laki-laki
+2509106055,Dicaprio,Akuntansi,62,2024,Laki-laki
+2509106056,Aristotles,Sistem Informasi,79,2021,Laki-laki
+2509106057,D.N.Aidit,Informatika,93,2025,Laki-laki
+2509106058,Furina,Manajemen,85,2023,Perempuan
+2509106059,Sahroni,Teknik Elektro,77,2022,Laki-laki
+2509106060,Miku,Desain Komunikasi Visual,69,2020,Perempuan
